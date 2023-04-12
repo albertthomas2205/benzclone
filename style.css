@@ -1,0 +1,208 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* or any other value to control the spacing between boxes */
+    background-color:black ;
+  }
+  
+  .box {
+    display:flex;
+    width: 400px;
+    height: 80px;
+    background-color:black;
+    align-items: center;
+    margin-left: 40px;
+    align-items: center;
+    
+  }
+  .box2{
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 130px;
+    margin-left: 30px;
+    width: 400px;
+    background-color:black;
+   
+
+  }
+  .t1{
+    color:aliceblue;
+    margin-right: 20px;
+
+  }
+  .t2{
+    color:aliceblue;
+    margin-left: 40px;
+
+  }
+  .t3{
+    color:aliceblue;
+    margin-right: 10px;
+    margin-left: 80px;
+   
+
+
+  }
+  .box3{
+/* padding-top: 20 ; */
+    align-items: center;
+    width: 300px;
+    height: 80px;
+    display:flex;
+    background-color:black;
+  }
+  .c2{
+    display: flex;
+    background-color:black ;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+
+  }
+  .box4{
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between; 
+    height: 70px;
+    width: 60%;
+    background-color:black;
+    margin-left: 20%;
+
+  }
+  .text{
+    color : white;
+  }
+  .box5{
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between; 
+    background-color:black;
+  }
+
+  .box6{
+    display:flex;
+  }
+  .b61{
+    margin-left: 15%;
+    margin-top: 10%;
+    width: 40%;
+  }
+  .b62{
+    margin-top: 40%;
+    width:60%;
+  }
+  .text1{
+    font-style:normal;
+    font-weight: lighter;
+    color: black;
+  }
+  .b621{
+    margin-left: 15%;
+  
+    width: 40%;
+  }
+  .b622{
+    
+  margin-top: 15%;
+    width: 60%;
+  }
+  .b6211{
+   
+    margin-left: 15%;
+  
+    width: 60%;
+  }
+  .b7{
+    margin-top: 15%;
+    background-image: url("https://www.mercedes-benz.com/en/_jcr_content/root/fullscreenstage/image/MQ7-0-image-20230113162245/01-mercedes-benz-classic-c123-diner-5120x2240.jpeg");
+   width:100vw;
+   height: 100vh;
+   background-size: 200vh;
+   background-repeat: no-repeat;
+  }
+  .b71{
+    padding-top: 4%;
+    margin-left: 10%;
+    color:aliceblue
+  }
+  .t4{
+   font-size: 5rem;
+   margin-top: 0;
+   margin-bottom: 0;
+   font-weight: lighter;
+   font-family:'Times New Roman', Times, serif;
+
+  }
+
+.button{
+  background-color: aliceblue;
+  color: black;
+  border-radius: 30px;
+  height: 50px;
+  width: 180px;
+  font-weight: li;
+  font-size: large;
+
+}
+.button2{
+  background-color: aliceblue;
+  color: black;
+  border-radius: 30px;
+  height: 40px;
+  width: 180px;
+  font-weight: lighter;
+  
+
+}
+.b8{
+ height:400px;
+ margin-top: 0;
+}
+.t8{
+  font-size: 3rem;
+  font-weight: lighter;
+  margin-left:35% ;
+}
+.b81{
+  margin-top: 10%;
+  margin-left: 20%;
+  
+}
+.t81{
+  margin-right: 10%;
+}
+.b9{
+  /* display: flex; */
+  background-color: black;
+  height: 600px;
+}
+.b91{
+  margin-left: 5%;
+  display: flex;
+  margin-top: 3%;
+ 
+}
+.t9{
+  color:aliceblue;
+  margin-right: 3%;
+  margin-top: 6%;
+  font-weight: lighter;
+}
+.t91{
+  color: aliceblue;
+  margin-left: 20px;
+  margin-top: 6%;
+  font-weight: lighter;
+}
+.b92{
+  margin-top: 5%;
+  display: flex;
+  margin-left:270px;
+}
+.b93{
+  margin-top: 10%;
+  margin-left: 42%;
+}
+  
+  
